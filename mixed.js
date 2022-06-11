@@ -191,11 +191,6 @@ digits(493193); // 2
 //     return (x[y] = (x[y] || 0) + 1), x;
 //   }, []);
 //   return result;
-//   if ((result.n == 5 && result.s == 5) || (result.w == 5 && result.e == 5)) {
-// return true;
-//   } else {
-// return false;
-//   }
 // return (result.n == 5 && result.s == 5) || (result.w == 5 && result.e == 5)
 //   ? true
 //   : false;
