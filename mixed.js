@@ -215,4 +215,25 @@ console.log(isValidWalk(["w"]));
 console.log(isValidWalk(["n", "n", "n", "s", "n", "s", "n", "s", "n", "s"]));
 console.log(isValidWalk(["w", "e", "w", "e", "w", "e", "w", "e", "w", "e", "w", "e"]));
 
+// ! Quetion 12____________________________________________
+// ? Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+// ? You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2.
+// ? The array will always contain letters in only one case.
 
+// * Samples:
+// * ['a','b','c','d','f'] -> 'e'
+// * ['O','Q','R','S'] -> 'P'
+
+function missingLetter(arr) {
+  let str = arr.join("").toString();
+  for (i = 0; i < str.length; i++) {
+    let first = str.charCodeAt(i);
+    let second = str.charCodeAt(i + 1);
+    if (second - first != 1) {
+      return String.fromCharCode(first + 1);
+    }
+  }
+}
+
+console.log(missingLetter(["a", "b", "c", "d", "f"])); // "e"
+console.log(missingLetter(["O", "Q", "R", "S"])); // "e"
