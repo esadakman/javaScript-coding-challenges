@@ -284,3 +284,42 @@ const numOfPairs = (arr) => {
 
 console.log(numOfPairs(["red", "green", "red", "blue", "blue"]));
 console.log(numOfPairs(["red", "red", "red", "red", "red", "red"]));
+
+// ! Quetion 14____________________________________________
+// ? Given an integer array nums, move all the even integers at the beginning of the array followed by all the odd integers.
+//  ?Return any array that satisfies this condition.
+
+function evenOdd(arr) {
+  even = [];
+  odd = [];
+  arr.forEach((number) => {
+    number % 2 == 0 ? even.push(number) : odd.push(number);
+  });
+  return arr.length != 0 ? arr : `${num} is prime`;
+}
+// }
+
+console.log(evenOdd([3, 1, 2, 4, 5]));
+
+// ! Quetion 15____________________________________________
+
+// ? Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
+
+// * For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
+
+// positives = positives.sort((a, b) => a - b);
+// return positives;
+
+function minPlus(arr) {
+  // let positives = [...new Set(arr.filter((x) => x > 0).sort((a, b) => a - b))];
+  let positives = arr.filter((x) => x > 0).sort((a, b) => a - b);
+  positives = [...new Set(positives)];
+  for (let i = 0; i <= positives.length; i++) {
+    if (positives[i] + 1 != positives[i + 1]) {
+      return positives[i] + 1;
+    }
+  }
+}
+
+console.log(minPlus([3, 4, -1, 1])); // 2
+console.log(minPlus([3, 3, 4, -1, 1, 2])); // 5
