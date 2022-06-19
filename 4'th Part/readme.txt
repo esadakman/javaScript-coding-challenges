@@ -6,3 +6,6 @@ Write a function inverse_slice() that takes three arguments: a list items, an in
 
 Quetion 18____________________________________________
 Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well.
+
+! Quetion 19____________________________________________
+Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).
