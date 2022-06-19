@@ -20,8 +20,5 @@ Implement a function that determines whether a string that contains only letters
 is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
 Quetion 5____________________________________________
-Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).
-
-Examples:
-- "the-stealth-warrior" gets converted to "theStealthWarrior"
-- "The_Stealth_Warrior" gets converted to "TheStealthWarrior"
+Convert number to reversed array of digits
+Given a random non-negative number, you have to return the digits of this number within an array in reverse order.
