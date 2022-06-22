@@ -115,7 +115,7 @@ function sevenAte9(str) {
   return arr.join("");
 }
 
-console.log(sevenAte9("79712312"));
-console.log(sevenAte9("79797"));
-console.log(sevenAte9("165561786121789797"));
+// console.log(sevenAte9("79712312"));
+// console.log(sevenAte9("79797"));
+// console.log(sevenAte9("165561786121789797"));
 
