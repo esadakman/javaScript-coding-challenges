@@ -9,3 +9,6 @@ Given an array of integers, find the first missing positive integer in linear ti
 
 ! Quetion 19____________________________________________
 Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case).
+
+// ! Quetion 20____________________________________________
+// ? Write a function that removes every lone 9 that is inbetween 7s.
