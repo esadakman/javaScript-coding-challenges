@@ -572,4 +572,18 @@ console.log(myLanguages({ Java: 10, Ruby: 80, Python: 65 })); // ["Ruby", "Pytho
 console.log(myLanguages({ "C++": 50, ASM: 10, Haskell: 20 })); // []
 ```
 
+## Question 27
+// ? Detect Pangram
+
+// ? A pangram is a sentence that contains every single letter of the alphabet at least once. For example, the sentence "The quick brown fox jumps over the lazy dog" is a pangram, because it uses the letters A-Z at least once (case is irrelevant).
+// ? Given a string, detect whether or not it is a pangram. Return True if it is, False if not. Ignore numbers and punctuation.
+
+```js
+function isPangram(string) {
+  return new Set(string.replace(/[^A-Za-z]+/g, "").toLowerCase()).size == 26;
+}
+
+console.log(isPangram("The quick brown fox jumps over the lazy dog.")); // true
+console.log(isPangram("This is not a pangram.")); // false
+```
 
