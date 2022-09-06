@@ -708,6 +708,7 @@ function multiplesSolution(number){
 
 console.log(multiplesSolution(10,23)); // 23
 ```
+## Question 32
 
 ##### Duplicate Encoder
 
