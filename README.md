@@ -25,7 +25,7 @@
   <tr>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/8_kyu/minPlus.md" >minPlus</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/isIsogram.md" >isIsogram</a></td>
-    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/.md" >findUniq</a></td> 
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/findUniq.md" >findUniq</a></td> 
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/domain_name.md" >domainName</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/product.md" >product</a></td>
   </tr> 
