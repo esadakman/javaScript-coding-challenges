@@ -1,22 +1,42 @@
 ## Extract the domain name from a URL
 
-- Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. For example:
- 
-```python
-* url = "http://github.com/carbonfive/raygun" -> domain name = "github"
-* url = "http://www.zombie-bites.com"         -> domain name = "zombie-bites"
-* url = "https://www.cnet.com"                -> domain name = "cnet"
+- Write a function that when given a URL as a string, parses out just the domain name and returns it as a string. 
+
+Examples:
+
+```js
+url = "http://github.com/carbonfive/raygun" -> domain name = "github"
+url = "http://www.zombie-bites.com"         -> domain name = "zombie-bites"
+url = "https://www.cnet.com"                -> domain name = "cnet"
 ```
 
-Solution:
+Solution 1:
 
 ```python
-def domain_name(url):
-    for s in url.split('/'):
-        if s.find(".") > 0:
-            return s.split('.')[1] if s.split('.')[0] =='www' else s.split('.')[0] 
+function domainName(url){ 
+     url = url.replace("http://", "")
+     url = url.replace("https://", "")
+     url = url.replace("www.", "")
+    
+    return url.split('.')[0]
+}
+```
+Solution 2:
 
-print(domain_name("http://google.com")) # google
-print(domain_name("www.xakep.ru")) # xakep
-print(domain_name("https://youtube.com")) # youtube
+```python
+function domainName(url){
+    let dm = ""
+    if((url.search("www")) != -1){
+        dm = url.slice(url.indexOf(".")+1,url.indexOf(".",url.indexOf(".")+1 ))
+        return dm;
+    }
+    else if((url.search("//")) !=-1){
+        dm = url.slice(url.indexOf("/")+2,url.indexOf(".", url.indexOf("/")+2 ))
+        return dm;
+    }
+    else {
+        dm = url.slice(0,url.indexOf("."))
+        return dm;
+    }
+  }
 ```
