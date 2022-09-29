@@ -33,7 +33,7 @@
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/bump.md" >bump</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/digitalRoot.md" >digitalRoot</a></td> 
-    <td><a href="5 kyu " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/regexp.md" >regexp</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/evenSort.md" >evenSort</a></td>
   </tr> 
   <tr>
