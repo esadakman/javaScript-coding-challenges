@@ -40,7 +40,7 @@
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/divisors.md" >divisors</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/findMissingLetter.md" >findMissingLetter</a></td> 
-    <td><a href="5 kyu " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/scramble.md" >scramble</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/slidingWindow.md" >slidingWindow</a></td>
   </tr> 
   <tr>
