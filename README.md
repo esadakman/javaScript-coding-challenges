@@ -47,7 +47,7 @@
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/longest.md" >longest</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/numberOfPairs.md" >numberOfPairs</a></td> 
-    <td><a href="5 kyu " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/firstNonRepeatingLetter.md" >firstNonRepeating</a></td>
     <td><a href="others " ></a></td>
   </tr> 
   <tr>
