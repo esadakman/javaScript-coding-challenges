@@ -1,7 +1,6 @@
 # javaScript-coding-challenges <a href="https://www.codewars.com/users/DeSaad" target="_blank"> <img src="https://www.codewars.com/users/DeSaad/badges/large" alt="visitor counter" align="right" valign="center" height="35"/></a>
 
- Solutions to CodeWars programming tasks. I try to update every day
-
+Solutions to CodeWars programming tasks. I try to update every day
 
 <p align='center'>
 <table>
@@ -61,7 +60,7 @@
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/sevenAte9.md" >sevenAte9</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/countBits.md" >countBits</a></td> 
-    <td><a href="5 kyu " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/orderWeight.md">orderWeight</a></td>
     <td><a href="others " ></a></td>
   </tr> 
   <tr>
@@ -115,4 +114,4 @@
   </tr> 
     
 </table>
-</p> 
+</p>
