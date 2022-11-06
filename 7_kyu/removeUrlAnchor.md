@@ -13,7 +13,7 @@ Solution:
 
 ```js
 function removeUrlAnchor(url){
-  // TODO: complete
+  return url.replace(/#\w+/, '');
 }
 
 console.log(removeUrlAnchor('www.codewars.com#about')); // www.codewars.com
