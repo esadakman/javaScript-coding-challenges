@@ -10,7 +10,7 @@ Solution:
 
 ```js
 function getCount(str) {
-  return 0;
+  return (str.match(/[aeiouAEIOU]/g) || []).length
 }
 
 console.log(getCount('"abracadabra"')); // 5 
