@@ -171,7 +171,7 @@ Solutions to CodeWars programming tasks. I try to update every day
   <tr>
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/movie_times.md" >movie_times</a></td>
-    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/areaOfPolygonInsideCircle.md" >areaOfPolygonInsideCircle</a></td> 
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/chasersSchedule.md" >chasersSchedule</a></td> 
     <td><a href="5 kyu " > </a></td>
     <td><a href="others " ></a></td>
   </tr>  
