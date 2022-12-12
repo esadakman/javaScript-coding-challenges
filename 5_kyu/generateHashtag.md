@@ -19,18 +19,17 @@ Solution:
 
 ```javascript
 function generateHashtag(str) {
-if (str.trim() != "" && str.length <= 140) {
-    const stringWithCamelCase = str
+  if (str.trim() === '') return false;
+  const res =
+    "#" +
+    str
       .split(" ")
-      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-      .join("");
-
-    const stringWithHashtag = `#${stringWithCamelCase.trim()}`;
-    return stringWithHashtag;
-  } else return false;
+      .map((word) => (word ? word[0].toUpperCase() + word.slice(1) : ""))
+      .reduce((joined, word) => joined + (!word ? "" : word));
+  return res.length <= 140 ? res : false;
 }
 
 console.log(generateHashtag("Do We have A Hashtag")); // #DoWeHaveAHashtag
 console.log(generateHashtag("CodeWars is nice")); // #CodewarsIsNice
-console.log(generateHashtag("")); // false
+console.log(generateHashtag("")); // #CodewarsIsNice
 ```
