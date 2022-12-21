@@ -88,7 +88,7 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/robberEncode.md" >robberEncode</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/multiplesSolution.md" >multiplesSolution</a></td> 
-    <td><a href="5 kyu " > </a></td>
+     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/humanReadable.md" >humanReadable</a></td>
     <td><a href="others " ></a></td>
   </tr> 
   <tr>
