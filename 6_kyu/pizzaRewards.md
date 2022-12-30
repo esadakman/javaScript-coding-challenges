@@ -1,4 +1,4 @@
-## Free pizza
+## [Free Pizza](https://www.codewars.com/kata/595910299197d929a10005ae)
 
 - In an attempt to boost sales, the manager of the pizzeria you work at has devised a pizza rewards system: if you already made at least 5 orders of at least 20 dollars, you get a free 12 inch pizza with 3 toppings of your choice.
 
@@ -10,7 +10,7 @@ Customers in the dictionary are represented as:
 { 'customerName' : [list_of_order_values_as_integers] }
 ```
 
-Solution:
+#### Solution:
 
 ```js
 function pizzaRewards(customers, minOrders, minPrice) {

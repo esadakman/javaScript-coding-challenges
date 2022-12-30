@@ -1,10 +1,11 @@
-## Comfortable words
+## [Comfortable Words](https://www.codewars.com/kata/56684677dc75e3de2500002b)
 
 - A comfortable word is a word which you can type always alternating the hand you type with (assuming you type using a QWERTY keyboard and use fingers as shown in the image below).
 - That being said, complete the function which receives a word and returns true if it's a comfortable word and false otherwise.
 - The word will always be a string consisting of only ascii letters from a to z.
+<img src="https://i.imgur.com/1I7Uuc5.jpeg" width='100%' height="400px" />
 
-Solution:
+#### Solution:
 
 ```js
 const comfortableWord = word => {

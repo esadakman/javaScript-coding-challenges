@@ -1,4 +1,4 @@
-## Movie Showtimes
+## [Movie Showtimes](https://www.codewars.com/kata/6376bbc66f2ae900343b7010)
 
 - You just started working at a local cinema, and your first task is to write a function that returns the showtimes of a specific movie, given its length. In order to make your job easier, you will work with 24-hour format throughout this kata.
 
@@ -13,7 +13,7 @@
 
 - For example, for a cinema opening at 13:00 and closing at 23:00 showing a 60-minute movie, your function must return the following array:
 
-Samples:
+#### Samples:
 
 ```js
 >>> movie_times(13, 23, 60)
@@ -24,11 +24,12 @@ Note that the cinema might close at times such as 02:00 or 03:00, meaning exampl
 >>> movie_times(16, 3, 75)
 [(16, 0), (17, 30), (19, 0), (20, 30), (22, 0), (23, 30), (1, 0)]
 ```
-<b>IMPORTANT:</b> For languages other than Python, just return an array of arrays. See sample test cases for more info on how to return the list of times.
+<b>IMPORTANT:</b>
+ For languages other than Python, just return an array of arrays. See sample test cases for more info on how to return the list of times.
 <b>NOTE:</b> This kata isn't meant to be too challenging, so opening times for all tests will be 12:00 or later, and closing times will always be 6:00 or earlier.
 <b>NOTE 2:</b> Midnight will be represented as (0, 0) or 0:00 in this kata, instead of 24:00.
 
-Solution:
+#### Solution:
 
 ```js
 function movie_times(open, close, length) {

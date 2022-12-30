@@ -1,15 +1,15 @@
-## Find First Missing Positive Integer In O(n) Complexity
+## [Find First Missing Positive Integer In O(n) Complexity](https://www.codewars.com/kata/5b533b0df1d553923f00005c)
 
 - Given an array of integers, find the first missing positive integer in linear time and constant space.
 - In other words, find the lowest positive integer that does not exist in the array.
 - The array can contain duplicates and negative numbers as well.
 
-Samples:
+#### Samples:
 ```js
 [3, 4, -1, 1] -> 2 
 [1, 2, 0] -> 3
 ```
-Solution:
+#### Solution:
 ```js
 function minPlus(arr) {
   // let positives = [...new Set(arr.filter((x) => x > 0).sort((a, b) => a - b))];

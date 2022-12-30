@@ -1,4 +1,4 @@
-## Find the unique number
+## [Find the unique number](https://www.codewars.com/kata/55f81f9aa51f9b72a200002f)
 
 - There is an array with some numbers. All numbers are equal except for one. Try to find it!
 

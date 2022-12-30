@@ -1,4 +1,4 @@
-## IP Validation
+## [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 
 - Write an algorithm that will identify valid IPv4 addresses in dot-decimal format. IPs should be considered valid if they consist of four octets, with values between `0` and `255`, inclusive.
 
@@ -22,7 +22,7 @@ Notes:
 - Leading zeros (e.g. `01.02.03.04`) are considered invalid
 - Inputs are guaranteed to be a single string
 
-Solution:
+#### Solution:
 
 ```js
 function isValidIP(str) {

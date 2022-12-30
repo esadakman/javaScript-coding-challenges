@@ -1,4 +1,4 @@
-## Handshake problem
+## [Handshake Problem](https://www.codewars.com/kata/5574835e3e404a0bed00001b)
 
 - Johnny is a farmer and he annually holds a beet farmers convention "Drop the beet".
 
@@ -8,7 +8,7 @@
 
 - Help Johnny by writing a function, that takes the amount of handshakes and returns the minimal amount of people needed to perform these handshakes (a pair of farmers handshake only once).
 
-Solution:
+#### Solution:
 
 ```js
 function getParticipants(h){

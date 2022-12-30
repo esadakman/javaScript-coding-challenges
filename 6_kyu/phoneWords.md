@@ -1,4 +1,4 @@
-## PhoneWords
+## [Phone Words](https://www.codewars.com/kata/635b8fa500fba2bef9189473)
 
 - Given a string of numbers, you must perform a method in which you will translate this string into text, based on the below image:
 
@@ -14,7 +14,7 @@
     - Given a empty string, return empty string.
     - Return a lowercase string.
 
-Examples: 
+#### Examples: 
 ```js
 "443355555566604466690277733099966688"  -->  "hello how are you"
 "55282"                 -->  "kata"
@@ -23,7 +23,7 @@ Examples:
 "833998"                -->  "text"
 "000"                   -->  "   "
 ```
-Solution:
+#### Solution:
 ```js 
 function phoneWords(stringOfNums) {
   let counter = 0,

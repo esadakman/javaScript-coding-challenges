@@ -1,9 +1,9 @@
-## Find the odd int 
+## [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) 
 
 - Given an array of integers, find the one that appears an odd number of times.
 - There will always be only one integer that appears an odd number of times.
 
-Examples:
+#### Examples:
 
 ```js
 - [7] should return 7, because it occurs 1 time (which is odd).
@@ -13,7 +13,7 @@ Examples:
 - [1,2,2,3,3,3,4,3,3,3,2,2,1] should return 4, because it appears 1 time (which is odd).
 ```
 
-Solution:
+#### Solution:
 
 ```js
 function findOdd(arr) {

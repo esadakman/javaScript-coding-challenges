@@ -1,4 +1,4 @@
-## Weight for weight
+## [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 
 - My friend John and I are members of the "Fat to Fit Club (FFC)". John is worried because each month a list with the weights of members is published and each month he is the last on the list which means he is the heaviest.
 
@@ -8,7 +8,7 @@
 
 - Given a string with the weights of FFC members in normal order can you give this string ordered by "weights" of these numbers?
 
-Examples:
+#### Examples:
 ```js
 "56 65 74 100 99 68 86 180 90" ordered by numbers weights becomes: 
 
@@ -21,7 +21,7 @@ Examples:
 
 - All numbers in the list are positive numbers and the list can be empty.
 
-Solution:
+#### Solution:
 ```js
 function orderWeight(strng) { 
     return strng.split(" ").sort((a, b) => (

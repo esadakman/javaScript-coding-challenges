@@ -1,4 +1,4 @@
-## Upstream/Downstream 
+## [Upstream/Downstream](https://www.codewars.com/kata/58162692c2a518f03a000189)
 
 - Chingel is practicing for a rowing competition to be held on this saturday. He is trying his best to win this tournament for which he needs to figure out how much time it takes to cover a certain distance.
   
@@ -8,7 +8,7 @@ Input:
 Output:
   - The output returned should be the time taken to cover the distance. If the result has decimal places, round them to 2 fixed positions.
   
-Solution:
+#### Solution:
 ```js
 function time(distance, boatSpeed, stream) {
   if (stream.includes("Downstream")) {

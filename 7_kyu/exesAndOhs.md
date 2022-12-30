@@ -1,8 +1,8 @@
-## Exes and Ohs
+## [Exes and Ohs](https://www.codewars.com/kata/search/javascript?q=Exes%20and%20Ohs&r%5B%5D=-7&xids=not_completed&beta=false&order_by=sort_date%20desc)
 
 - Check to see if a string has the same amount of 'x's and 'o's. The method must return a boolean and be case insensitive. The string can contain any char.
 
-Examples input/output:
+#### Examples input/output:
 
 ```js
 XO("ooxx") => true
@@ -12,7 +12,7 @@ XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
 XO("zzoo") => false
 ```
 
-Solution 1:
+#### Solution 1:
 
 ```js
 function XO(str) {
@@ -25,7 +25,7 @@ console.log(XO("xo")); // true
 console.log(XO("xxOo")); // true
 ```
 
-Solution 2:
+#### Solution 2:
 
 ```js
 function XO(str) {

@@ -1,4 +1,4 @@
-## Does my number look big in this?
+## [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
 
 - A Narcissistic Number (or Armstrong Number) is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10).
 
@@ -20,7 +20,7 @@ The Challenge:
 
 - Error checking for text strings or other invalid inputs is not required, only valid positive non-zero integers will be passed into the function.
 
-Solution:
+#### Solution:
 
 ```js
 function narcissistic(value) {

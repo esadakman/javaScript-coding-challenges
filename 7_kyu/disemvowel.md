@@ -1,4 +1,4 @@
-## Disemvowel Trolls
+## [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 
 - Trolls are attacking your comment section!
 
@@ -10,7 +10,7 @@
 
 Note: for this kata y isn't considered a vowel.
 
-Solution:
+#### Solution:
 
 ```js
 function disemvowel(str) {

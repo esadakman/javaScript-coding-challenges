@@ -1,4 +1,4 @@
-## Rotate an array matrix
+## [Rotate an array matrix](https://www.codewars.com/kata/525a566985a9a47bc8000670)
 
 - Write a rotate function that rotates a two-dimensional array (a matrix) either clockwise or anti-clockwise by 90 degrees, and returns the rotated array.
 
@@ -6,7 +6,7 @@
 
 - Here is an example of how your function will be used:
 
-Examples:
+#### Examples:
 
 ```js
 var matrix = [
@@ -38,7 +38,7 @@ Rotated counter-clockwise it would looks like this:
 ];
 ```
 
-Solutions:
+#### Solutions:
 
 ```js
 function rotate(matrix, direction) {

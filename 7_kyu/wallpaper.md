@@ -1,4 +1,4 @@
-## Easy wallpaper
+## [Easy wallpaper](https://www.codewars.com/kata/567501aec64b81e252000003)
 
 - John wants to decorate the walls of a room with wallpaper. He wants a fool-proof method for getting it right.
 
@@ -10,7 +10,7 @@ Task:
 
 - Your function `wallpaper(l, w, h)` should return as a plain English word in lower case the number of rolls he must buy.
 
-Example:
+#### Example:
 `wallpaper(4.0, 3.5, 3.0) should return "ten"`
 `wallpaper(0.0, 3.5, 3.0) should return "zero"`
 
@@ -29,7 +29,7 @@ In Coffeescript, Javascript, Python, Ruby and Scala the English numbers are prel
 
 - For other languages it is not preloaded and you can instead copy the above list if you desire.
 
-Solution:
+#### Solution:
 
 ```js
 function wallpaper(l, w, h) {

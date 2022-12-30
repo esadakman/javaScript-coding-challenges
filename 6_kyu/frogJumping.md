@@ -1,4 +1,4 @@
-## Frog jumping
+## [Frog Jumping](https://www.codewars.com/kata/536950ffc8a5ca9982001371)
 
 - You have an array of integers and have a frog at the first position
 
@@ -20,7 +20,7 @@ array = [1, 2, 1, 5];
 jumps = 3  (1 -> 2 -> 5 -> <jump out>)
  ```
 
-Solution: 
+#### Solution: 
 ```js
 function solution(a) {
   if (a.length === 0) return -1;

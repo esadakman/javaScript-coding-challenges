@@ -1,8 +1,8 @@
-## Sorted? yes? no? how? 
+## [Sorted? yes? no? how?](https://www.codewars.com/kata/580a4734d6df748060000045)
 
 - Complete the method which accepts an array of integers, and returns one of the following:
 
-Examples:
+#### Examples:
 ```js
 => "yes, ascending" - if the numbers in the array are sorted in an ascending order\
 => "yes, descending" - if the numbers in the array are sorted in a descending order\
@@ -11,7 +11,7 @@ Examples:
 ```
 You can assume the array will always be valid, and there will always be one correct answer.
 
-Solution:
+#### Solution:
 
 ```js
 function (array) {

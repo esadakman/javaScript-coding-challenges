@@ -1,4 +1,4 @@
-## Anagram Detection
+## [Anagram Detection](https://www.codewars.com/kata/529eef7a9194e0cbc1000255)
 
 - An anagram is the result of rearranging the letters of a word to produce a new word.
 
@@ -12,7 +12,7 @@ Samples:
 - `"Buckethead"` is an anagram of `"DeathCubeK"`
  
  
-Solution: 
+#### Solution: 
 ```js
 var isAnagram = function (test, original) {
   return test.toLowerCase().split("").sort().join("") ==

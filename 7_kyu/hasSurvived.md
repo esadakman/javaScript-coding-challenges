@@ -1,4 +1,4 @@
-## Survive the attack
+## [Survive the attack](https://www.codewars.com/kata/634d0f7c562caa0016debac5)
 
 - Given two Arrays in which values are the power of each soldier, return true if you survive the attack or false if you perish.
 
@@ -13,13 +13,12 @@
 - In case there are the same number of survivors in both sides, the winner is the team with the highest initial attack power. If the total attack power of both sides is the same return true.
   - The initial attack power is the sum of all the values in each array.
 
-Samples:
+#### Samples:
 
 ```js
 attackers=[ 1, 3, 5, 7 ]   defenders=[ 2, 4, 6, 8 ]
 //0 survivors                4 survivors
-//return true
-
+//return true 
 
 attackers=[ 1, 3, 5, 7 ]   defenders=[ 2, 4 ]
 //2 survivors  (16 damage)   2 survivors (6 damage)
@@ -30,7 +29,7 @@ attackers=[ 1, 3, 5, 7 ]   defenders=[ 2, 4, 0, 8 ]
 //return true
 ```
 
-Solution:
+#### Solution:
 
 ```js
 function hasSurvived(attackers, defenders) {
