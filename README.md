@@ -29,14 +29,14 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/product.md" >product</a></td>
   </tr> 
   <tr>
-    <td><a href=" " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/reversedWords.md" >reversedWords</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/bump.md" >bump</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/digitalRoot.md" >digitalRoot</a></td> 
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/regexp.md" >regexp</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/evenSort.md" >evenSort</a></td>
   </tr> 
   <tr>
-    <td><a href=" " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/reversedStrings.md" >reversedStrings</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/divisors.md" >divisors</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/findMissingLetter.md" >findMissingLetter</a></td> 
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/scramble.md" >scramble</a></td>
@@ -191,14 +191,14 @@ Solutions to CodeWars programming tasks. I try to update every day
   </tr>  
   <tr>
     <td><a href=" " > </a></td>
-    <td><a href="7 kyu" > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/stringEndsWith.md" >stringEndsWith </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/isValidIP.md" >isValidIP </a></td> 
     <td><a href="5 kyu" > </a></td>
     <td><a href="others " ></a></td>
   </tr>  
   <tr>
     <td><a href=" " > </a></td>
-    <td><a href="7 kyu" > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/reverseWords.md" >reverseWords </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/narcissistic.md" >narcissistic </a></td> 
     <td><a href="5 kyu" > </a></td>
     <td><a href="others " ></a></td>
