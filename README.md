@@ -254,7 +254,7 @@ Solutions to CodeWars programming tasks. I try to update every day
   </tr>  
   <tr>
     <td><a href=" " > </a></td>
-    <td><a href="7 kyu" > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/constructSubmatrix.md" >constructSubmatrix</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/curry.md" >curry </a></td> 
     <td><a href="5 kyu" > </a></td>
     <td><a href="others " ></a></td>
