@@ -137,7 +137,7 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href=" " > </a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/spoonerize.md" >spoonerize</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/getParticipants.md" >getParticipants</a></td> 
-    <td><a href="5 kyu " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/josephusSurvivor.md" >josephusSurvivor</a></td>
     <td><a href="others " ></a></td>
   </tr>  
   <tr>
