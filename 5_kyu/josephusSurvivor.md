@@ -1,4 +1,4 @@
-## [Josephus Survivor](https://www.codewars.com/kata/563fb342f47611dae800003c/train/javascript)
+## [Josephus Survivor](https://www.codewars.com/kata/555624b601231dc7a400017a)
 
 - In this kata you have to correctly return who is the "survivor", ie: the last element of a Josephus permutation.
 
