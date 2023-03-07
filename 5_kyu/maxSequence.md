@@ -16,12 +16,12 @@ maxSequence([-2, 1, -3, 4, -1, 2, 1, -5, 4]);
 ```js
 
 var maxSequence = function (arr) {
-  let res = 0;
+  let ans = 0;
   let sum = 0;
  
   for (let i = 0; i < arr.length; i++) {
-    res = Math.max(0, res + arr[i]);
-    sum = Math.max(sum, res); 
+    ans = Math.max(0, ans + arr[i]);
+    sum = Math.max(sum, ans); 
   } 
   return sum;
   
