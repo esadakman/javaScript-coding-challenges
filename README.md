@@ -275,14 +275,14 @@ Solutions to CodeWars programming tasks. I try to update every day
   </tr>  
   <tr>
     <td><a href=" " > </a></td>
-    <td><a href="7 kyu" > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/isABeforeM.md" >isABeforeM</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/likes.md" >likes </a></td> 
     <td><a href="5 kyu" > </a></td>
     <td><a href="others " ></a></td>
   </tr>  
   <tr>
     <td><a href=" " > </a></td>
-    <td><a href="7 kyu" > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/computerToPhone.md" >computerToPhone</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/maxMirror.md" >maxMirror </a></td> 
     <td><a href="5 kyu" > </a></td>
     <td><a href="others " ></a></td>
