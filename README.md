@@ -43,7 +43,7 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/others/slidingWindow.md" >slidingWindow</a></td>
   </tr> 
   <tr>
-    <td><a href=" " > </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/8_kyu/noSpace.md" >noSpace</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/longest.md" >longest</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/numberOfPairs.md" >numberOfPairs</a></td> 
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/firstNonRepeatingLetter.md" >firstNonRepeating</a></td>
