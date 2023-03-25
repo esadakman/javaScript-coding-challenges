@@ -20,7 +20,7 @@ mispelled('versed', 'versed'); // returns true
 
 
 
-Solution:
+#### Solution:
 
 ```js
 var mispelled = function (word1, word2) {

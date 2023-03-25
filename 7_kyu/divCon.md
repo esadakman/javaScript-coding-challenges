@@ -5,7 +5,7 @@
 - Return as a number.
 
 
-Solution:
+#### Solution:
 
 ```js
 function divCon(x){

@@ -14,7 +14,7 @@ Math.floor(Math.random() * 100 + 1);
 
 - "The power to define the situation is the ultimate power." - Jerry Rubin
 
-Solution:
+#### Solution:
 
 ```js
 var guess = 10;
