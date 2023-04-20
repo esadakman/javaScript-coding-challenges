@@ -1,4 +1,4 @@
-## [Calculate the area of a regular n sides polygon inside a circle of radius r](https://www.codewars.com/kata/5a58ca28e626c55ae000018a/javascript)
+## [Difference of 2](https://www.codewars.com/kata/5340298112fa30e786000688)
 
 - The objective is to return all pairs of integers from a given array of integers that have a difference of 2.
 
