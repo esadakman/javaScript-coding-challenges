@@ -1,4 +1,4 @@
-## [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a)
+## [8 inch pizza equivalence](hhttps://www.codewars.com/kata/599bb194b7a047b04d000077)
 
 - How much bigger is a 16-inch pizza compared to an 8-inch pizza? A more pragmatic question is: How many 8-inch pizzas "fit" in a 16-incher?
 
