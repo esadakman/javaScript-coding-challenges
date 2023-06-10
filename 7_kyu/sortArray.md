@@ -1,4 +1,4 @@
-## [SevenAte9](https://www.codewars.com/kata/559f44187fa851efad000087)
+## [Sorting Arrays](https://www.codewars.com/kata/57fe864854685b1c420002e0/javascript)
 
 - Given two arrays, a1 and a2, sort the elements of a2 based on the the index of the word in a1 that begins with the same letter.
 
