@@ -23,7 +23,7 @@ the function `nb_year`should return `` number of entire years needed to get a po
 
 - aug is an integer, percent a positive or null floating number, p0 and p are positive integers (> 0)
 
-#### SamplExampleses:
+#### Examples:
 
 ```js
 nb_year(1500, 5, 100, 5000) -> 15
