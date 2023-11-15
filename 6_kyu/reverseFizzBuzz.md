@@ -1,4 +1,4 @@
-## [Positions Average](https://www.codewars.com/kata/59ad13d5589d2a1d84000020/)
+## [FizzBuzz Backwards](https://www.codewars.com/kata/59ad13d5589d2a1d84000020/)
 
 - Traditionally in FizzBuzz, multiples of 3 are replaced by "Fizz" and multiples of 5 are replaced by "Buzz". But we could also play FizzBuzz with any other integer pair `[n, m]` whose multiples are replaced with Fizz and Buzz.
 
