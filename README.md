@@ -50,7 +50,7 @@ Solutions to CodeWars programming tasks. I try to update every day
     <td><a href="others "></a></td>
   </tr> 
   <tr>
-    <td><a href=" "> </a></td>
+    <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/8_kyu/amIWilson.md">amIWilson</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/7_kyu/inverseSlice.md">inverseSlice</a></td>
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/6_kyu/toCamelCase.md">toCamelCase</a></td> 
     <td><a href="https://github.com/esadakman/javaScript-coding-challenges/blob/master/5_kyu/rotate.md">rotate</a></td> 
