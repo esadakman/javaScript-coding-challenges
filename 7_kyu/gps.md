@@ -9,7 +9,7 @@ x = [0.0, 0.19, 0.5, 0.75, 1.0, 1.25, 1.5, 1.75, 2.0, 2.25];
 - The sections are:
 
 ```js
-  0.0 - 0.19,
+0.0 - 0.19,
   0.19 - 0.5,
   0.5 - 0.75,
   0.75 - 1.0,
@@ -42,18 +42,20 @@ Happy coding!
 
 #### Solution:
 
-```js
-function gps(s, x) {
-  if (x.length < 2) return 0;
-  let result = [];
-  for (let index = x.length - 1; index > 0; index--) {
-    result.push((3600 * (x[index] - x[index - 1])) / s);
-  }
-  return Math.max(...result);
-}
+```python
+def gps(s, x):
+    if len(x) <= 1:
+        return 0
 
-var x = [0.0, 0.23, 0.46, 0.69, 0.92, 1.15, 1.38, 1.61];
-var s = 20;
+    result = []
+    for index in range(len(x) - 1, 0, -1):
+        result.append((3600 * (x[index] - x[index - 1])) / s)
 
-console.log(gps(s, x)); // 41
+    return int(max(result))
+
+# Example usage:
+x = [0.0, 0.23, 0.46, 0.69, 0.92, 1.15, 1.38, 1.61]
+s = 20
+print(gps(s, x))  # Output: 41
+
 ```
