@@ -1,4 +1,4 @@
-## [How many e-mails we sent today?](https://www.codewars.com/kata/56684677dc75e3de2500002b)
+## [How many e-mails we sent today?](https://www.codewars.com/kata/58a369fa5b3daf464200006c)
 
 #### DESCRIPTION:
 
